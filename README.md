@@ -1,4 +1,2 @@
 ## ReadMe
-This is the master readme
-
-the additional changes.
+This is the modified master readme.
